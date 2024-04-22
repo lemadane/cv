@@ -10,21 +10,21 @@
 
 # Skills Summary
 
-****Languages: ****JavaScript, Typescript
+**Languages: **JavaScript, Typescript
 
-****Front-End Frameworks: ****React, React-Native
+**Front-End Frameworks: **React, React-Native
 
-- ****Back-End Frameworks: ****Node.js, Loopback
+- **Back-End Frameworks: **Node.js, Loopback
 
-  ****Databases: ****MongoDB, PostgreSQL, MySQL/MariaDB,
+  **Databases: **MongoDB, PostgreSQL, MySQL/MariaDB,
 
-  ****DevOps: ****Docker, Nginx, PM2, AWS (EC2, RDS), Azure Functions
+  **DevOps: **Docker, Nginx, PM2, AWS (EC2, RDS), Azure Functions
 
-  ****Development Tools: ****Visual Studio Code, Git, Jira, Copilot
+  **Development Tools: **Visual Studio Code, Git, Jira, Copilot
 
-  ****Testing: ****Mocha, Chai, Sinon, Jest, SuperTest, Newman
+  **Testing: **Mocha, Chai, Sinon, Jest, SuperTest, Newman
 
-  ****Methodolog****ies****: ****Scrum, Agile, Waterfall
+  **Methodolog**ies**: **Scrum, Agile, Waterfall
 
 # Roles Handled & Experiences
 
