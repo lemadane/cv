@@ -2,29 +2,29 @@
 
 > Position Desired:** Fullstack / Backend Engineer**
 
-**Address: **25 Vista Verde Ave., Cainta, Rizal, Philippines
+**Address:**25 Vista Verde Ave., Cainta, Rizal, Philippines
 
-**Email: **lem@email.com
+**Email:**lem@email.com
 
-**Mobile / Viber: **+63-919-004-0246
+**Mobile / Viber:**+63-919-004-0246
 
 # Skills Summary
 
-**Languages: **JavaScript, Typescript
+**Languages:**JavaScript, Typescript
 
-**Front-End Frameworks: **React, React-Native
+**Front-End Frameworks:**React, React-Native
 
-- **Back-End Frameworks: **Node.js, Loopback
+- **Back-End Frameworks:**Node.js, Loopback
 
-  **Databases: **MongoDB, PostgreSQL, MySQL/MariaDB,
+  **Databases:**MongoDB, PostgreSQL, MySQL/MariaDB,
 
-  **DevOps: **Docker, Nginx, PM2, AWS (EC2, RDS), Azure Functions
+  **DevOps:**Docker, Nginx, PM2, AWS (EC2, RDS), Azure Functions
 
-  **Development Tools: **Visual Studio Code, Git, Jira, Copilot
+  **Development Tools:**Visual Studio Code, Git, Jira, Copilot
 
-  **Testing: **Mocha, Chai, Sinon, Jest, SuperTest, Newman
+  **Testing:**Mocha, Chai, Sinon, Jest, SuperTest, Newman
 
-  **Methodolog**ies**: **Scrum, Agile, Waterfall
+  **Methodolog**ies**:**Scrum, Agile, Waterfall
 
 # Roles Handled & Experiences
 
@@ -71,7 +71,7 @@ code reviews
 
 **Tech stack:** Node-Loopback, React Redux, Typescript, Sinon, Mocha
 
-**Client: **Metrobank
+**Client:**Metrobank
 
 Senior Fullstack Developer
 
@@ -90,7 +90,7 @@ the standard UI that utilizes this CMS usaing React
 **Tech stack:** Node-Loopback, Typescript, React Redux, Thunk, Jest,
 Mocha, Sinon, Docker
 
-**Client: ** HCL’s worldwide clients
+**Client:** HCL’s worldwide clients
 
 Back-end Developer
 
@@ -122,7 +122,7 @@ Unit 7A , 7f New Solid Bldg., 357 Gen. Puyat Ave., Makati City
 **Project:** IOT API – is a back-end RESTful microservice-based API for
 IOT devices with voltage, current and power calculations
 
-**Link: ** [edgeconx.com](http://edgeconx.com/)
+**Link:** [edgeconx.com](http://edgeconx.com/)
 
 **Accomplishment:** independently developed and deployed the REST & CoAP
 API, user with user CRUD, device information CRUD, real time data
@@ -155,7 +155,7 @@ Google login
 **Tech stack:** Node-Sails.JS framework, Forever JS - process manager
 for Node, PHP Yii, Android-Java
 
-**Project2: ** PLDT Home – web based broadband and landline subscribers
+**Project2:** PLDT Home – web based broadband and landline subscribers
 management system
 
 **Link:** pldthome.com
@@ -176,7 +176,7 @@ Ortigas Center, Pasig City, Metro Manila +6326870578
 
 **Project:** **Med Alert** - Clinic management system application
 
-**Accomplishments: **independently developed the back-end API,
+**Accomplishments:**independently developed the back-end API,
 
 **Tech stack:** Ruby on Rails, MySQL, Nginx, AWS EC2
 
@@ -195,7 +195,7 @@ internet
 
 **Link:** [my-fobo.com](http://my-fobo.com/)
 
-**Accomplishments: **developed RESTful API endpoints
+**Accomplishments:**developed RESTful API endpoints
 
 designed and implemented Android user interface
 
@@ -210,7 +210,7 @@ Teligent Systems January 2013 – October 2013
 4<sup>th</sup> F Maripola Blg. 109 Perea, Legazpi Village, Makati, Metro
 Manila
 
-**Project2: ** Web based Tax-Payment Application
+**Project2:** Web based Tax-Payment Application
 
 **Accomplishments:** independently developed a tax-payment web-based
 application for BTM clients companies
@@ -234,7 +234,7 @@ Web Developer
 
 Salcedo Village, Makati City, Metro Manila
 
-**Project2: **LBC Express cargo & logistics management web application
+**Project2:**LBC Express cargo & logistics management web application
 
 **Link:** lbcexpress.com
 
@@ -262,10 +262,10 @@ Highway, Calamba City, Laguna,
 Philippi](https://www.google.com/maps/search/No.2,%20Tagaytay%20Ridge%20Drive,%20Carmelray%20Industrial%20Park%20II,%20Km%2054%20National%20Highway,%20Calamba%20City,%20Laguna,%20Philippines.%204027/)nes
 +[6349-502-7253](tel:+6349-502-7253)
 
-**Projects: **Automated test stations for smart power supply products
+**Projects:**Automated test stations for smart power supply products
 and circuit boards
 
-**Accomplishments: **designed and developed maintain and improve the
+**Accomplishments:**designed and developed maintain and improve the
 software applications based on the smart power supply specification
 reducing test cycle time and improving product reliability
 
@@ -311,14 +311,14 @@ National Highway, Calamba City, Laguna, Philippines
 
 \+[6349-502-7253](tel:+6349-502-7253)
 
-**Projects: **Automated test stations for testing smart power supply
+**Projects:**Automated test stations for testing smart power supply
 products and circuit boards.
 
-**Accomplishments: **designed and developed the software applications
+**Accomplishments:**designed and developed the software applications
 based on the smart power supply specification reducing test cycle time
 and improving product reliability.
 
-**Tech stack: ** Visual Basic, ODBC, Microsoft SQL Server Parallel &
+**Tech stack:** Visual Basic, ODBC, Microsoft SQL Server Parallel &
 Serial Ports Programming,
 
 **Client:** In-house
